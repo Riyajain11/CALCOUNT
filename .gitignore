@@ -1,0 +1,22 @@
+# Flutter & Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# Android
+**/.gradle/
+**/.kotlin/
+**/local.properties
+**/GeneratedPluginRegistrant.java
+**/.cxx/
+**/captures/
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+**/*.log
+**/*.pyc
+.idea/
+*.iml
